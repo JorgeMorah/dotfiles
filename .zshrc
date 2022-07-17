@@ -42,6 +42,8 @@ export EDITOR=nvim
 alias n="nvim"
 alias r="ranger"
 alias lls="ls -l"
+alias llsa="ls -l -a"
+alias yay="yay --noanswerdiff"
 alias sudo="sudo -p 'Identify ur self MF!: '"
 
 macchina
