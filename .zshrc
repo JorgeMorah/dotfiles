@@ -11,6 +11,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="oasis"
 
+
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#4B4B4C"
 
 # Which plugins would you like to load?
